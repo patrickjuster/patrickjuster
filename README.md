@@ -1,7 +1,7 @@
 <h1>Hello, I'm Patrick!</h1>
 
 <h2>Certifications</h2>
-- AWS Certified Cloud Practitioner()
+- AWS Certified Cloud Practitioner(AWS Certified Cloud Practitioner certificate.pdf)
 
 <h2>👨‍💻 AWS Cloud Computing Projects:</h2>
 

@@ -1,6 +1,6 @@
 <h1>Hello, I'm Patrick!</h1>
 
-<h2>Certifications</h2>
+<h2>👨‍💻 Certifications</h2>
 
 - [AWS Certified Cloud Practitioner](https://github.com/patrickjuster/patrickjuster/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
 

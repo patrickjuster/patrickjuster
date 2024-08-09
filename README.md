@@ -7,4 +7,4 @@
 <h2>👨‍💻 AWS Cloud Computing Projects:</h2>
 
 - <b>AWS VPC Networking Basics</b>
-  - [Practicing VPC Networking Basics](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing VPC Networking Basics]()

@@ -8,3 +8,6 @@
 
 - <b>AWS VPC Networking Basics</b>
   - [Practicing VPC Networking Basics](https://github.com/patrickjuster/VPCNetworkingProject)
+ 
+- <b>AWS Building Serverless Reminder App</b>
+  - [Practicing Building Serverless Architecture](https://github.com/patrickjuster/VPCNetworkingProject)

@@ -11,3 +11,6 @@
  
 - <b>AWS Building Serverless Reminder App</b>
   - [Practicing Building Serverless Architecture](https://github.com/patrickjuster/ServerlessAppProject)
+ 
+- <b>AWS WEBIDF App</b>
+  - [Practicing Building WEBIDF App](https://github.com/patrickjuster/WEBIDFappProj)

@@ -3,6 +3,7 @@
 <h2>👨‍💻 Certifications</h2>
 
 - [AWS Certified Cloud Practitioner](https://github.com/patrickjuster/patrickjuster/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
+- [AWS Solutions Architect - Associate](https://www.credly.com/badges/9811c4ea-48a2-4ec7-9f89-082c77bb6136)
 
 <h2>👨‍💻 AWS Cloud Computing Projects:</h2>
 
